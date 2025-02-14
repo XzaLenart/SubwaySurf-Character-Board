@@ -1,0 +1,1756 @@
+{
+  "lastSaved": "2025-02-12T12:48:34.641133Z",
+  "patchVersion": 3,
+  "selected": {
+    "character": "ozzy",
+    "outfit": "default"
+  },
+  "owned": {
+    "jake": {
+      "id": "jake",
+      "ownedOutfits": [
+        "default",
+        "darkOutfit",
+        "starOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "nick": {
+      "id": "nick",
+      "ownedOutfits": [
+        "default",
+        "neonOutfit",
+        "speedOutfit"
+      ],
+      "lastOutfit": "neonOutfit"
+    },
+    "jenny": {
+      "id": "jenny",
+      "ownedOutfits": [
+        "default",
+        "pixelOutfit",
+        "partyOutfit"
+      ],
+      "lastOutfit": "pixelOutfit"
+    },
+    "roberto": {
+      "id": "roberto",
+      "ownedOutfits": [
+        "default",
+        "fanOutfit",
+        "culesOutfit"
+      ],
+      "lastOutfit": "culesOutfit"
+    },
+    "amy": {
+      "id": "amy",
+      "ownedOutfits": [
+        "default",
+        "regularOutfit"
+      ],
+      "lastOutfit": "regularOutfit"
+    },
+    "salma": {
+      "id": "salma",
+      "ownedOutfits": [
+        "default",
+        "nomadOutfit",
+        "talismanOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "kareem": {
+      "id": "kareem",
+      "ownedOutfits": [
+        "default",
+        "SilkOutfit"
+      ],
+      "lastOutfit": "SilkOutfit"
+    },
+    "noon": {
+      "id": "noon",
+      "ownedOutfits": [
+        "default",
+        "siamOutfit",
+        "pinkOutfit"
+      ],
+      "lastOutfit": "siamOutfit"
+    },
+    "ox": {
+      "id": "ox",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "darryl": {
+      "id": "darryl",
+      "ownedOutfits": [
+        "default",
+        "gonzoOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "lana": {
+      "id": "lana",
+      "ownedOutfits": [
+        "default",
+        "nordicOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "ella": {
+      "id": "ella",
+      "ownedOutfits": [
+        "default",
+        "goldOutfit",
+        "rastaOutfit"
+      ],
+      "lastOutfit": "goldOutfit"
+    },
+    "trym": {
+      "id": "trym",
+      "ownedOutfits": [
+        "default",
+        "noblenewbieOutfit"
+      ],
+      "lastOutfit": "noblenewbieOutfit"
+    },
+    "cleo": {
+      "id": "cleo",
+      "ownedOutfits": [
+        "default",
+        "heartbreakerOutfit",
+        "blossomqueenOutfit"
+      ],
+      "lastOutfit": "blossomqueenOutfit"
+    },
+    "buzz": {
+      "id": "buzz",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "bonnie": {
+      "id": "bonnie",
+      "ownedOutfits": [
+        "default",
+        "harajukuOutfit",
+        "luckyOutfit"
+      ],
+      "lastOutfit": "luckyOutfit"
+    },
+    "akira": {
+      "id": "akira",
+      "ownedOutfits": [
+        "default",
+        "nightriderOutfit"
+      ],
+      "lastOutfit": "nightriderOutfit"
+    },
+    "parkourRin": {
+      "id": "parkourRin",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "dino": {
+      "id": "dino",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "zayn": {
+      "id": "zayn",
+      "ownedOutfits": [
+        "default",
+        "stealthOutfit",
+        "eastvestOutfit"
+      ],
+      "lastOutfit": "eastvestOutfit"
+    },
+    "tricky": {
+      "id": "tricky",
+      "ownedOutfits": [
+        "default",
+        "camoOutfit",
+        "heartOutfit"
+      ],
+      "lastOutfit": "heartOutfit"
+    },
+    "boombot": {
+      "id": "boombot",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "liu": {
+      "id": "liu",
+      "ownedOutfits": [
+        "default",
+        "birdwatcherOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "fresh": {
+      "id": "fresh",
+      "ownedOutfits": [
+        "default",
+        "funkOutfit",
+        "sportOutfit"
+      ],
+      "lastOutfit": "sportOutfit"
+    },
+    "brody": {
+      "id": "brody",
+      "ownedOutfits": [
+        "default",
+        "poshOutfit",
+        "chillOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "frank": {
+      "id": "frank",
+      "ownedOutfits": [
+        "default",
+        "clownOutfit",
+        "tigerOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "king": {
+      "id": "king",
+      "ownedOutfits": [
+        "default",
+        "countOutfit",
+        "royalOutfit"
+      ],
+      "lastOutfit": "royalOutfit"
+    },
+    "missMaia": {
+      "id": "missMaia",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "ninja": {
+      "id": "ninja",
+      "ownedOutfits": [
+        "default",
+        "yangOutfit",
+        "flameOutfit"
+      ],
+      "lastOutfit": "flameOutfit"
+    },
+    "princeK": {
+      "id": "princeK",
+      "ownedOutfits": [
+        "default",
+        "jagOutfit",
+        "shineOutfit"
+      ],
+      "lastOutfit": "shineOutfit"
+    },
+    "spike": {
+      "id": "spike",
+      "ownedOutfits": [
+        "default",
+        "rockOutfit",
+        "punkOutfit"
+      ],
+      "lastOutfit": "rockOutfit"
+    },
+    "tagbot": {
+      "id": "tagbot",
+      "ownedOutfits": [
+        "default",
+        "spaceOutfit",
+        "toyOutfit"
+      ],
+      "lastOutfit": "spaceOutfit"
+    },
+    "tasha": {
+      "id": "tasha",
+      "ownedOutfits": [
+        "default",
+        "cheeroutfit",
+        "gymOutfit"
+      ],
+      "lastOutfit": "cheeroutfit"
+    },
+    "yutani": {
+      "id": "yutani",
+      "ownedOutfits": [
+        "default",
+        "gadgetOutfit"
+      ],
+      "lastOutfit": "gadgetOutfit"
+    },
+    "zoe": {
+      "id": "zoe",
+      "ownedOutfits": [
+        "default",
+        "curlyOutfit",
+        "bikerOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "carlos": {
+      "id": "carlos",
+      "ownedOutfits": [
+        "default",
+        "incaOutfit",
+        "ponchoOutfit"
+      ],
+      "lastOutfit": "ponchoOutfit"
+    },
+    "carmen": {
+      "id": "carmen",
+      "ownedOutfits": [
+        "default",
+        "shakeOutfit",
+        "teamOutfit"
+      ],
+      "lastOutfit": "shakeOutfit"
+    },
+    "jolien": {
+      "id": "jolien",
+      "ownedOutfits": [
+        "default",
+        "floristOutfit",
+        "springOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "nina": {
+      "id": "nina",
+      "ownedOutfits": [
+        "default",
+        "cyberPunkOutfit",
+        "whitenightOutfit"
+      ],
+      "lastOutfit": "whitenightOutfit"
+    },
+    "olivia": {
+      "id": "olivia",
+      "ownedOutfits": [
+        "default",
+        "skateOutfit",
+        "derbyMacabreOutfit"
+      ],
+      "lastOutfit": "skateOutfit"
+    },
+    "rosa": {
+      "id": "rosa",
+      "ownedOutfits": [
+        "default",
+        "foxOutfit",
+        "ceiboOutfit"
+      ],
+      "lastOutfit": "ceiboOutfit"
+    },
+    "freya": {
+      "id": "freya",
+      "ownedOutfits": [
+        "default",
+        "vikingOutfit",
+        "winterMagicOutfit"
+      ],
+      "lastOutfit": "winterMagicOutfit"
+    },
+    "amira": {
+      "id": "amira",
+      "ownedOutfits": [
+        "default",
+        "genieOutfit",
+        "jewelOutfit"
+      ],
+      "lastOutfit": "jewelOutfit"
+    },
+    "izzy": {
+      "id": "izzy",
+      "ownedOutfits": [
+        "default",
+        "alohaOutfit",
+        "lakiOutfit"
+      ],
+      "lastOutfit": "lakiOutfit"
+    },
+    "hugo": {
+      "id": "hugo",
+      "ownedOutfits": [
+        "default",
+        "mountainOutfit",
+        "piratOutfit"
+      ],
+      "lastOutfit": "piratOutfit"
+    },
+    "callum": {
+      "id": "callum",
+      "ownedOutfits": [
+        "default",
+        "changelingOutfit",
+        "pinkpunkOutfit"
+      ],
+      "lastOutfit": "pinkpunkOutfit"
+    },
+    "harumi": {
+      "id": "harumi",
+      "ownedOutfits": [
+        "default",
+        "meowOutfit",
+        "furyOutfit"
+      ],
+      "lastOutfit": "meowOutfit"
+    },
+    "mike": {
+      "id": "mike",
+      "ownedOutfits": [
+        "default",
+        "howlOutfit",
+        "jagerOutfit"
+      ],
+      "lastOutfit": "jagerOutfit"
+    },
+    "zombiejake": {
+      "id": "zombiejake",
+      "ownedOutfits": [
+        "default",
+        "seriousOutfit"
+      ],
+      "lastOutfit": "seriousOutfit"
+    },
+    "buddy": {
+      "id": "buddy",
+      "ownedOutfits": [
+        "default",
+        "sunnyOutfit",
+        "candyOutfit"
+      ],
+      "lastOutfit": "candyOutfit"
+    },
+    "rin": {
+      "id": "rin",
+      "ownedOutfits": [
+        "default",
+        "lunarOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "jack": {
+      "id": "jack",
+      "ownedOutfits": [
+        "default",
+        "businessOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "mimi": {
+      "id": "mimi",
+      "ownedOutfits": [
+        "default",
+        "folkOutfit"
+      ],
+      "lastOutfit": "folkOutfit"
+    },
+    "diego": {
+      "id": "diego",
+      "ownedOutfits": [
+        "default",
+        "flamencoOutfit",
+        "chivalryoutfit"
+      ],
+      "lastOutfit": "flamencoOutfit"
+    },
+    "ming": {
+      "id": "ming",
+      "ownedOutfits": [
+        "default",
+        "whitesnakeOutfit"
+      ],
+      "lastOutfit": "whitesnakeOutfit"
+    },
+    "kim": {
+      "id": "kim",
+      "ownedOutfits": [
+        "default",
+        "diveOutfit",
+        "coastOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "mei": {
+      "id": "mei",
+      "ownedOutfits": [
+        "default",
+        "islanderOutfit",
+        "bumiOutfit"
+      ],
+      "lastOutfit": "islanderOutfit"
+    },
+    "jasmine": {
+      "id": "jasmine",
+      "ownedOutfits": [
+        "default",
+        "safariOutfit",
+        "ankhOutfit"
+      ],
+      "lastOutfit": "safariOutfit"
+    },
+    "lee": {
+      "id": "lee",
+      "ownedOutfits": [
+        "default",
+        "silkOutfit",
+        "wudangOutfit"
+      ],
+      "lastOutfit": "wudangOutfit"
+    },
+    "edison": {
+      "id": "edison",
+      "ownedOutfits": [
+        "default",
+        "urbanOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "qin": {
+      "id": "qin",
+      "ownedOutfits": [
+        "default",
+        "warriorOutfit"
+      ],
+      "lastOutfit": "warriorOutfit"
+    },
+    "rex": {
+      "id": "rex",
+      "ownedOutfits": [
+        "default",
+        "showOutfit",
+        "winOutfit"
+      ],
+      "lastOutfit": "winOutfit"
+    },
+    "maeko": {
+      "id": "maeko",
+      "ownedOutfits": [
+        "default",
+        "hostessOutfit",
+        "streetOutfit"
+      ],
+      "lastOutfit": "streetOutfit"
+    },
+    "sofia": {
+      "id": "sofia",
+      "ownedOutfits": [
+        "default",
+        "gauchoOutfit",
+        "tangoOutfit"
+      ],
+      "lastOutfit": "tangoOutfit"
+    },
+    "alba": {
+      "id": "alba",
+      "ownedOutfits": [
+        "default",
+        "cowgirlOutfit",
+        "spaceOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "bjarki": {
+      "id": "bjarki",
+      "ownedOutfits": [
+        "default",
+        "powerOutfit",
+        "fisherOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "tony": {
+      "id": "tony",
+      "ownedOutfits": [
+        "default",
+        "folkOutfit",
+        "gameOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "brandon": {
+      "id": "brandon",
+      "ownedOutfits": [
+        "default",
+        "kungFuOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "marco": {
+      "id": "marco",
+      "ownedOutfits": [
+        "default",
+        "maskOutfit",
+        "nobleOutfit"
+      ],
+      "lastOutfit": "nobleOutfit"
+    },
+    "hou": {
+      "id": "hou",
+      "ownedOutfits": [
+        "default",
+        "archerOutfit"
+      ],
+      "lastOutfit": "archerOutfit"
+    },
+    "manny": {
+      "id": "manny",
+      "ownedOutfits": [
+        "default",
+        "mariachiOutfit",
+        "luchadorOutfit"
+      ],
+      "lastOutfit": "mariachiOutfit"
+    },
+    "scarlett": {
+      "id": "scarlett",
+      "ownedOutfits": [
+        "default",
+        "catrinaOutfit",
+        "botanicalHorrorOutfit"
+      ],
+      "lastOutfit": "botanicalHorrorOutfit"
+    },
+    "eddy": {
+      "id": "eddy",
+      "ownedOutfits": [
+        "default",
+        "trickOutfit",
+        "vampireOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "jia": {
+      "id": "jia",
+      "ownedOutfits": [
+        "default",
+        "wildOutfit",
+        "unicornOutfit"
+      ],
+      "lastOutfit": "unicornOutfit"
+    },
+    "jay": {
+      "id": "jay",
+      "ownedOutfits": [
+        "default",
+        "blueOutfit",
+        "colorMasterOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "nicolai": {
+      "id": "nicolai",
+      "ownedOutfits": [
+        "default",
+        "frostOutfit",
+        "fauxFurOutfit"
+      ],
+      "lastOutfit": "frostOutfit"
+    },
+    "jaro": {
+      "id": "jaro",
+      "ownedOutfits": [
+        "default",
+        "jokerOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "nikos": {
+      "id": "nikos",
+      "ownedOutfits": [
+        "default",
+        "heroOutfit",
+        "hopperOutfit"
+      ],
+      "lastOutfit": "hopperOutfit"
+    },
+    "dylan": {
+      "id": "dylan",
+      "ownedOutfits": [
+        "default",
+        "lifeguardOutfit",
+        "walkmanOutfit"
+      ],
+      "lastOutfit": "walkmanOutfit"
+    },
+    "ez": {
+      "id": "ez",
+      "ownedOutfits": [
+        "default",
+        "touchdownOutfit",
+        "JiveOutfit"
+      ],
+      "lastOutfit": "JiveOutfit"
+    },
+    "ramona": {
+      "id": "ramona",
+      "ownedOutfits": [
+        "default",
+        "elegantOutfit",
+        "pinaOutfit"
+      ],
+      "lastOutfit": "pinaOutfit"
+    },
+    "wayne": {
+      "id": "wayne",
+      "ownedOutfits": [
+        "default",
+        "chiefOutfit",
+        "knightOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "alicia": {
+      "id": "alicia",
+      "ownedOutfits": [
+        "default",
+        "tracksuitOutfit",
+        "fallOutfit"
+      ],
+      "lastOutfit": "fallOutfit"
+    },
+    "mina": {
+      "id": "mina",
+      "ownedOutfits": [
+        "default",
+        "roboOutfit",
+        "popOutfit"
+      ],
+      "lastOutfit": "popOutfit"
+    },
+    "rabbot": {
+      "id": "rabbot",
+      "ownedOutfits": [
+        "default",
+        "ironbunOutfit"
+      ],
+      "lastOutfit": "ironbunOutfit"
+    },
+    "ace": {
+      "id": "ace",
+      "ownedOutfits": [
+        "default",
+        "pilotOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "aina": {
+      "id": "aina",
+      "ownedOutfits": [
+        "default",
+        "daisyOutfit",
+        "blueOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "sun": {
+      "id": "sun",
+      "ownedOutfits": [
+        "default",
+        "spotOutfit",
+        "rogueOutfit"
+      ],
+      "lastOutfit": "rogueOutfit"
+    },
+    "philip": {
+      "id": "philip",
+      "ownedOutfits": [
+        "default",
+        "racerOutfit",
+        "captainOutfit"
+      ],
+      "lastOutfit": "captainOutfit"
+    },
+    "coco": {
+      "id": "coco",
+      "ownedOutfits": [
+        "default",
+        "artOutfit",
+        "jesterOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "zuri": {
+      "id": "zuri",
+      "ownedOutfits": [
+        "default",
+        "cityOutfit"
+      ],
+      "lastOutfit": "cityOutfit"
+    },
+    "monkbot": {
+      "id": "monkbot",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "elfTricky": {
+      "id": "elfTricky",
+      "ownedOutfits": [
+        "default",
+        "iceOutfit",
+        "candyOutfit"
+      ],
+      "lastOutfit": "candyOutfit"
+    },
+    "festiveFresh": {
+      "id": "festiveFresh",
+      "ownedOutfits": [
+        "default",
+        "hoodieOutfit"
+      ],
+      "lastOutfit": "hoodieOutfit"
+    },
+    "lauren": {
+      "id": "lauren",
+      "ownedOutfits": [
+        "default",
+        "tallyOutfit",
+        "pilotOutfit"
+      ],
+      "lastOutfit": "tallyOutfit"
+    },
+    "alex": {
+      "id": "alex",
+      "ownedOutfits": [
+        "default",
+        "technoOutfit"
+      ],
+      "lastOutfit": "technoOutfit"
+    },
+    "malik": {
+      "id": "malik",
+      "ownedOutfits": [
+        "default",
+        "tuskOutfit",
+        "penguinOutfit"
+      ],
+      "lastOutfit": "penguinOutfit"
+    },
+    "tankbot": {
+      "id": "tankbot",
+      "ownedOutfits": [
+        "default",
+        "incaOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "nflpaOdellBeckhamJr": {
+      "id": "nflpaOdellBeckhamJr",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "nflpaLamarJackson": {
+      "id": "nflpaLamarJackson",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "nflpaDakPrescott": {
+      "id": "nflpaDakPrescott",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "nflpaSaquonBarkley": {
+      "id": "nflpaSaquonBarkley",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "nflpaPatrickMahomes": {
+      "id": "nflpaPatrickMahomes",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "nflpaTomBrady": {
+      "id": "nflpaTomBrady",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "cathy": {
+      "id": "cathy",
+      "ownedOutfits": [
+        "default",
+        "visualkeiOutfit",
+        "seasideOutfit"
+      ],
+      "lastOutfit": "seasideOutfit"
+    },
+    "noel": {
+      "id": "noel",
+      "ownedOutfits": [
+        "default",
+        "bigblueOutfit"
+      ],
+      "lastOutfit": "bigblueOutfit"
+    },
+    "morgan": {
+      "id": "morgan",
+      "ownedOutfits": [
+        "default",
+        "swampMysteryOutfit"
+      ],
+      "lastOutfit": "swampMysteryOutfit"
+    },
+    "andy": {
+      "id": "andy",
+      "ownedOutfits": [
+        "default",
+        "gamerOutfit",
+        "theGreatOutdoorOutfit"
+      ],
+      "lastOutfit": "theGreatOutdoorOutfit"
+    },
+    "mala": {
+      "id": "mala",
+      "ownedOutfits": [
+        "default",
+        "lunarOutfit",
+        "missmosaicOutfit"
+      ],
+      "lastOutfit": "missmosaicOutfit"
+    },
+    "jamie": {
+      "id": "jamie",
+      "ownedOutfits": [
+        "default",
+        "tophatOutfit",
+        "hatterOutfit"
+      ],
+      "lastOutfit": "hatterOutfit"
+    },
+    "festiveJake": {
+      "id": "festiveJake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "festiveTricky": {
+      "id": "festiveTricky",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "festiveSpike": {
+      "id": "festiveSpike",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "festiveYutani": {
+      "id": "festiveYutani",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "festiveFrank": {
+      "id": "festiveFrank",
+      "ownedOutfits": [
+        "default",
+        "anubisOutfit",
+        "fortuneOutfit"
+      ],
+      "lastOutfit": "fortuneOutfit"
+    },
+    "lucy": {
+      "id": "lucy",
+      "ownedOutfits": [
+        "default",
+        "gothOutfit",
+        "steamOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "frankette": {
+      "id": "frankette",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "spacebot": {
+      "id": "spacebot",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "rat": {
+      "id": "rat",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideJake": {
+      "id": "prideJake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideFresh": {
+      "id": "prideFresh",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideSpike": {
+      "id": "prideSpike",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideTricky": {
+      "id": "prideTricky",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideYutani": {
+      "id": "prideYutani",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideFrank": {
+      "id": "prideFrank",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideBot": {
+      "id": "prideBot",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "alexandre": {
+      "id": "alexandre",
+      "ownedOutfits": [
+        "default",
+        "stanOutfit"
+      ],
+      "lastOutfit": "stanOutfit"
+    },
+    "koral": {
+      "id": "koral",
+      "ownedOutfits": [
+        "default",
+        "tentaqueenOutfit",
+        "subexplorerOutfit"
+      ],
+      "lastOutfit": "subexplorerOutfit"
+    },
+    "bobTheBlob": {
+      "id": "bobTheBlob",
+      "ownedOutfits": [
+        "default",
+        "jingleOutfit",
+        "slimeOutfit"
+      ],
+      "lastOutfit": "jingleOutfit"
+    },
+    "phoenix": {
+      "id": "phoenix",
+      "ownedOutfits": [
+        "default",
+        "partyBusinessOutfit",
+        "summerOutfit"
+      ],
+      "lastOutfit": "summerOutfit"
+    },
+    "taha": {
+      "id": "taha",
+      "ownedOutfits": [
+        "default",
+        "TropiTahaOutfit",
+        "chilitahaOutfit"
+      ],
+      "lastOutfit": "chilitahaOutfit"
+    },
+    "gingerbot": {
+      "id": "gingerbot",
+      "ownedOutfits": [
+        "default",
+        "wrapperOutfit"
+      ],
+      "lastOutfit": "wrapperOutfit"
+    },
+    "clementine": {
+      "id": "clementine",
+      "ownedOutfits": [
+        "default",
+        "frostyOutfit",
+        "hideandsheepOutfit"
+      ],
+      "lastOutfit": "hideandsheepOutfit"
+    },
+    "hasina": {
+      "id": "hasina",
+      "ownedOutfits": [
+        "default",
+        "worldCupOutfit",
+        "holidayOutfit"
+      ],
+      "lastOutfit": "holidayOutfit"
+    },
+    "tiger": {
+      "id": "tiger",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "charlie": {
+      "id": "charlie",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "pink": {
+      "id": "pink",
+      "ownedOutfits": [
+        "default",
+        "spellcasterOutfit",
+        "witchcapOutfit"
+      ],
+      "lastOutfit": "witchcapOutfit"
+    },
+    "george": {
+      "id": "george",
+      "ownedOutfits": [
+        "default",
+        "eggstravaganzaOutfit",
+        "moonbunOutfit"
+      ],
+      "lastOutfit": "moonbunOutfit"
+    },
+    "dummy": {
+      "id": "dummy",
+      "ownedOutfits": [
+        "default",
+        "skellyOutfit"
+      ],
+      "lastOutfit": "skellyOutfit"
+    },
+    "fernando": {
+      "id": "fernando",
+      "ownedOutfits": [
+        "default",
+        "superscoutOutfit"
+      ],
+      "lastOutfit": "superscoutOutfit"
+    },
+    "ballerinatricky": {
+      "id": "ballerinatricky",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "clockworkJohnny": {
+      "id": "clockworkJohnny",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "pixeljake": {
+      "id": "pixeljake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "guardking": {
+      "id": "guardking",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "elfJake": {
+      "id": "elfJake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "audrey": {
+      "id": "audrey",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "lawrence": {
+      "id": "lawrence",
+      "ownedOutfits": [
+        "default",
+        "snowballerOutfit"
+      ],
+      "lastOutfit": "default"
+    },
+    "hammybee": {
+      "id": "hammybee",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "grandjuke": {
+      "id": "grandjuke",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "snowy": {
+      "id": "snowy",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "stella": {
+      "id": "stella",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "demi": {
+      "id": "demi",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "drflyman": {
+      "id": "drflyman",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "vivienne": {
+      "id": "vivienne",
+      "ownedOutfits": [
+        "default",
+        "hollywoodglamOutfit"
+      ],
+      "lastOutfit": "hollywoodglamOutfit"
+    },
+    "spraybot": {
+      "id": "spraybot",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "elfYutani": {
+      "id": "elfYutani",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "elfFresh": {
+      "id": "elfFresh",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "skye": {
+      "id": "skye",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "leif": {
+      "id": "leif",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "dragonyear": {
+      "id": "dragonyear",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "azura": {
+      "id": "azura",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "thunder": {
+      "id": "thunder",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "captainFlash": {
+      "id": "captainFlash",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "astra": {
+      "id": "astra",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "lucky": {
+      "id": "lucky",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "meggan": {
+      "id": "meggan",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "redpanda": {
+      "id": "redpanda",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "hamza": {
+      "id": "hamza",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "faiza": {
+      "id": "faiza",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "teabot": {
+      "id": "teabot",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "finn": {
+      "id": "finn",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "electra": {
+      "id": "electra",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "riley": {
+      "id": "riley",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "lily": {
+      "id": "lily",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "rudyrascal": {
+      "id": "rudyrascal",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "ventura": {
+      "id": "ventura",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "glorgalax": {
+      "id": "glorgalax",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "helene": {
+      "id": "helene",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "ozzy": {
+      "id": "ozzy",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "pins": {
+      "id": "pins",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "billybean": {
+      "id": "billybean",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "ruhi": {
+      "id": "ruhi",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "kedi": {
+      "id": "kedi",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "pumpkinpete": {
+      "id": "pumpkinpete",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "logan": {
+      "id": "logan",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "sindri": {
+      "id": "sindri",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "moira": {
+      "id": "moira",
+      "ownedOutfits": [
+        "default",
+        "thetouristOutfit",
+        "theholiOutfit"
+      ],
+      "lastOutfit": "theholiOutfit"
+    },
+    "snake": {
+      "id": "snake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "alfie": {
+      "id": "alfie",
+      "ownedOutfits": [
+        "default",
+        "cupidOutfit",
+        "backyardtrollOutfit"
+      ],
+      "lastOutfit": "backyardtrollOutfit"
+    },
+    "kaleo": {
+      "id": "kaleo",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "hali": {
+      "id": "hali",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "valentina": {
+      "id": "valentina",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "kaleoKissKissOutfit": {
+      "id": "kaleoKissKissOutfit",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "tangyuan": {
+      "id": "tangyuan",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "tutti": {
+      "id": "tutti",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "zihao": {
+      "id": "zihao",
+      "ownedOutfits": [
+        "default",
+        "vanillastrawberryOutfit"
+      ],
+      "lastOutfit": "vanillastrawberryOutfit"
+    },
+    "superRunnerJake": {
+      "id": "superRunnerJake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "soul": {
+      "id": "soul",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "prideMissMaia": {
+      "id": "prideMissMaia",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "thursday": {
+      "id": "thursday",
+      "ownedOutfits": [
+        "default",
+        "lilImpOutfit"
+      ],
+      "lastOutfit": "lilImpOutfit"
+    },
+    "superRunnerTricky": {
+      "id": "superRunnerTricky",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "fantasma": {
+      "id": "fantasma",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "rain": {
+      "id": "rain",
+      "ownedOutfits": [
+        "default",
+        "gardenOutfit"
+      ],
+      "lastOutfit": "gardenOutfit"
+    },
+    "outatimeJake": {
+      "id": "outatimeJake",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "superRunnerFresh": {
+      "id": "superRunnerFresh",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "yutaniHarlequinToad": {
+      "id": "yutaniHarlequinToad",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "ginger": {
+      "id": "ginger",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "musician": {
+      "id": "musician",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "songYi": {
+      "id": "songYi",
+      "ownedOutfits": [
+        "default",
+        "goldencrushOutfit"
+      ],
+      "lastOutfit": "goldencrushOutfit"
+    },
+    "frutti": {
+      "id": "frutti",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "yuto": {
+      "id": "yuto",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "theBurgerKing": {
+      "id": "theBurgerKing",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "taina": {
+      "id": "taina",
+      "ownedOutfits": [
+        "default",
+        "judokaOutfit"
+      ],
+      "lastOutfit": "judokaOutfit"
+    },
+    "catrine": {
+      "id": "catrine",
+      "ownedOutfits": [
+        "default",
+        "trailmixOutfit"
+      ],
+      "lastOutfit": "trailmixOutfit"
+    },
+    "jiYeong": {
+      "id": "jiYeong",
+      "ownedOutfits": [
+        "default",
+        "celestialOutfit"
+      ],
+      "lastOutfit": "celestialOutfit"
+    },
+    "rabbit": {
+      "id": "rabbit",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "superRunnerYutani": {
+      "id": "superRunnerYutani",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "bruno": {
+      "id": "bruno",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "leo": {
+      "id": "leo",
+      "ownedOutfits": [
+        "default"
+      ],
+      "lastOutfit": "default"
+    },
+    "alia": {
+      "id": "alia",
+      "ownedOutfits": [
+        "default",
+        "sneakyblindersOutfit"
+      ],
+      "lastOutfit": "sneakyblindersOutfit"
+    }
+  }
+}

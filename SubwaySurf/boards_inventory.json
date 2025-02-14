@@ -1,0 +1,1335 @@
+{
+  "lastSaved": "2025-02-11T14:07:23.79143Z",
+  "patchVersion": 2,
+  "selected": "deardart",
+  "owned": {
+    "default": {
+      "id": "default",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "bassBlaster": {
+      "id": "bassBlaster",
+      "ownedUpgrades": {
+        "trail": true,
+        "jumper": true
+      }
+    },
+    "renegade": {
+      "id": "renegade",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "buddyBear": {
+      "id": "buddyBear",
+      "ownedUpgrades": {}
+    },
+    "starboard": {
+      "id": "starboard",
+      "ownedUpgrades": {
+        "default": true,
+        "trail": true,
+        "doubleJump": true
+      }
+    },
+    "wayfarer": {
+      "id": "wayfarer",
+      "ownedUpgrades": {
+        "glider": true,
+        "default": true
+      }
+    },
+    "crane": {
+      "id": "crane",
+      "ownedUpgrades": {}
+    },
+    "bigKahuna": {
+      "id": "bigKahuna",
+      "ownedUpgrades": {
+        "default": true,
+        "glider": true,
+        "lowrider": true
+      }
+    },
+    "endeavour": {
+      "id": "endeavour",
+      "ownedUpgrades": {}
+    },
+    "daredevil": {
+      "id": "daredevil",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "discovery": {
+      "id": "discovery",
+      "ownedUpgrades": {}
+    },
+    "windglider": {
+      "id": "windglider",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "greatWhite": {
+      "id": "greatWhite",
+      "ownedUpgrades": {
+        "default": true,
+        "speed": true,
+        "glider": true
+      }
+    },
+    "hotrod": {
+      "id": "hotrod",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "lowrider": {
+      "id": "lowrider",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "lumberjack": {
+      "id": "lumberjack",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": true,
+        "lowrider": true
+      }
+    },
+    "monster": {
+      "id": "monster",
+      "ownedUpgrades": {
+        "default": true,
+        "highSpeed": true,
+        "superJump": true
+      }
+    },
+    "scoot": {
+      "id": "scoot",
+      "ownedUpgrades": {
+        "default": true,
+        "teleport": true,
+        "highSpeed": true
+      }
+    },
+    "skullFire": {
+      "id": "skullFire",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": true,
+        "highSpeed": true
+      }
+    },
+    "freestyler": {
+      "id": "freestyler",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": true,
+        "jumper": true
+      }
+    },
+    "sunset": {
+      "id": "sunset",
+      "ownedUpgrades": {
+        "default": true,
+        "trail": true,
+        "glider": true
+      }
+    },
+    "superhero": {
+      "id": "superhero",
+      "ownedUpgrades": {
+        "default": true,
+        "teleport": true,
+        "jumper": true
+      }
+    },
+    "teleporter": {
+      "id": "teleporter",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "leaf": {
+      "id": "leaf",
+      "ownedUpgrades": {}
+    },
+    "birthday": {
+      "id": "birthday",
+      "ownedUpgrades": {}
+    },
+    "prickly": {
+      "id": "prickly",
+      "ownedUpgrades": {}
+    },
+    "roto": {
+      "id": "roto",
+      "ownedUpgrades": {}
+    },
+    "clockwork": {
+      "id": "clockwork",
+      "ownedUpgrades": {}
+    },
+    "punk": {
+      "id": "punk",
+      "ownedUpgrades": {}
+    },
+    "jouster": {
+      "id": "jouster",
+      "ownedUpgrades": {}
+    },
+    "jewelled": {
+      "id": "jewelled",
+      "ownedUpgrades": {}
+    },
+    "casket": {
+      "id": "casket",
+      "ownedUpgrades": {}
+    },
+    "betty": {
+      "id": "betty",
+      "ownedUpgrades": {}
+    },
+    "glacier": {
+      "id": "glacier",
+      "ownedUpgrades": {}
+    },
+    "thunderbolt": {
+      "id": "thunderbolt",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "tumi": {
+      "id": "tumi",
+      "ownedUpgrades": {
+        "teleport": true
+      }
+    },
+    "naga": {
+      "id": "naga",
+      "ownedUpgrades": {}
+    },
+    "liberty": {
+      "id": "liberty",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "waveRider": {
+      "id": "waveRider",
+      "ownedUpgrades": {}
+    },
+    "cherry": {
+      "id": "cherry",
+      "ownedUpgrades": {}
+    },
+    "banana": {
+      "id": "banana",
+      "ownedUpgrades": {}
+    },
+    "desertRacer": {
+      "id": "desertRacer",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "rose": {
+      "id": "rose",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "teddy": {
+      "id": "teddy",
+      "ownedUpgrades": {}
+    },
+    "croc": {
+      "id": "croc",
+      "ownedUpgrades": {}
+    },
+    "cruiser": {
+      "id": "cruiser",
+      "ownedUpgrades": {}
+    },
+    "kitty": {
+      "id": "kitty",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "scarab": {
+      "id": "scarab",
+      "ownedUpgrades": {
+        "glider": true,
+        "highSpeed": true
+      }
+    },
+    "roller": {
+      "id": "roller",
+      "ownedUpgrades": {}
+    },
+    "coral": {
+      "id": "coral",
+      "ownedUpgrades": {}
+    },
+    "cobra": {
+      "id": "cobra",
+      "ownedUpgrades": {}
+    },
+    "splash": {
+      "id": "splash",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "bigBlue": {
+      "id": "bigBlue",
+      "ownedUpgrades": {}
+    },
+    "yellowCab": {
+      "id": "yellowCab",
+      "ownedUpgrades": {}
+    },
+    "ray": {
+      "id": "ray",
+      "ownedUpgrades": {}
+    },
+    "flamingo": {
+      "id": "flamingo",
+      "ownedUpgrades": {}
+    },
+    "spaceship": {
+      "id": "spaceship",
+      "ownedUpgrades": {}
+    },
+    "hexed": {
+      "id": "hexed",
+      "ownedUpgrades": {}
+    },
+    "mosaic": {
+      "id": "mosaic",
+      "ownedUpgrades": {}
+    },
+    "phantom": {
+      "id": "phantom",
+      "ownedUpgrades": {
+        "teleport": true
+      }
+    },
+    "pumpkin": {
+      "id": "pumpkin",
+      "ownedUpgrades": {}
+    },
+    "lion": {
+      "id": "lion",
+      "ownedUpgrades": {}
+    },
+    "stallion": {
+      "id": "stallion",
+      "ownedUpgrades": {
+        "trail": true,
+        "jumper": true
+      }
+    },
+    "eagle": {
+      "id": "eagle",
+      "ownedUpgrades": {}
+    },
+    "diablo": {
+      "id": "diablo",
+      "ownedUpgrades": {}
+    },
+    "speeder": {
+      "id": "speeder",
+      "ownedUpgrades": {}
+    },
+    "turtle": {
+      "id": "turtle",
+      "ownedUpgrades": {
+        "trail": true
+      }
+    },
+    "chicky": {
+      "id": "chicky",
+      "ownedUpgrades": {
+        "trail": true,
+        "highSpeed": true
+      }
+    },
+    "pixelHeart": {
+      "id": "pixelHeart",
+      "ownedUpgrades": {}
+    },
+    "groovy": {
+      "id": "groovy",
+      "ownedUpgrades": {
+        "trail": true,
+        "default": true
+      }
+    },
+    "chameleon": {
+      "id": "chameleon",
+      "ownedUpgrades": {}
+    },
+    "chrome": {
+      "id": "chrome",
+      "ownedUpgrades": {}
+    },
+    "sweetheart": {
+      "id": "sweetheart",
+      "ownedUpgrades": {}
+    },
+    "gondola": {
+      "id": "gondola",
+      "ownedUpgrades": {}
+    },
+    "orni": {
+      "id": "orni",
+      "ownedUpgrades": {
+        "glider": true
+      }
+    },
+    "scratchy": {
+      "id": "scratchy",
+      "ownedUpgrades": {}
+    },
+    "fireDragon": {
+      "id": "fireDragon",
+      "ownedUpgrades": {}
+    },
+    "rickshaw": {
+      "id": "rickshaw",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "hotdog": {
+      "id": "hotdog",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "medal": {
+      "id": "medal",
+      "ownedUpgrades": {}
+    },
+    "rocket": {
+      "id": "rocket",
+      "ownedUpgrades": {
+        "trail": true,
+        "highSpeed": true
+      }
+    },
+    "chooChoo": {
+      "id": "chooChoo",
+      "ownedUpgrades": {}
+    },
+    "birdie": {
+      "id": "birdie",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "jingles": {
+      "id": "jingles",
+      "ownedUpgrades": {
+        "trail": true,
+        "superJump": true
+      }
+    },
+    "rudy": {
+      "id": "rudy",
+      "ownedUpgrades": {}
+    },
+    "sleigh": {
+      "id": "sleigh",
+      "ownedUpgrades": {}
+    },
+    "magicCarpet": {
+      "id": "magicCarpet",
+      "ownedUpgrades": {
+        "glider": true,
+        "jumper": false
+      }
+    },
+    "rockstar": {
+      "id": "rockstar",
+      "ownedUpgrades": {}
+    },
+    "colorCloud": {
+      "id": "colorCloud",
+      "ownedUpgrades": {
+        "highSpeed": true,
+        "teleport": true
+      }
+    },
+    "bengal": {
+      "id": "bengal",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "hammer": {
+      "id": "hammer",
+      "ownedUpgrades": {}
+    },
+    "ukulele": {
+      "id": "ukulele",
+      "ownedUpgrades": {}
+    },
+    "oldDusty": {
+      "id": "oldDusty",
+      "ownedUpgrades": {
+        "trail": true,
+        "default": true
+      }
+    },
+    "tiki": {
+      "id": "tiki",
+      "ownedUpgrades": {}
+    },
+    "woody": {
+      "id": "woody",
+      "ownedUpgrades": {}
+    },
+    "moose": {
+      "id": "moose",
+      "ownedUpgrades": {}
+    },
+    "panda": {
+      "id": "panda",
+      "ownedUpgrades": {}
+    },
+    "toucan": {
+      "id": "toucan",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "kickOff": {
+      "id": "kickOff",
+      "ownedUpgrades": {}
+    },
+    "pedal": {
+      "id": "pedal",
+      "ownedUpgrades": {}
+    },
+    "retroWave": {
+      "id": "retroWave",
+      "ownedUpgrades": {}
+    },
+    "crashTest": {
+      "id": "crashTest",
+      "ownedUpgrades": {
+        "highSpeed": true
+      }
+    },
+    "parasol": {
+      "id": "parasol",
+      "ownedUpgrades": {}
+    },
+    "bamboo": {
+      "id": "bamboo",
+      "ownedUpgrades": {}
+    },
+    "flyingHorse": {
+      "id": "flyingHorse",
+      "ownedUpgrades": {}
+    },
+    "scroll": {
+      "id": "scroll",
+      "ownedUpgrades": {}
+    },
+    "goat": {
+      "id": "goat",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "starcruiser": {
+      "id": "starcruiser",
+      "ownedUpgrades": {}
+    },
+    "jazz": {
+      "id": "jazz",
+      "ownedUpgrades": {
+        "highSpeed": true,
+        "superJump": true
+      }
+    },
+    "snowflake": {
+      "id": "snowflake",
+      "ownedUpgrades": {}
+    },
+    "bubblegum": {
+      "id": "bubblegum",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "outback": {
+      "id": "outback",
+      "ownedUpgrades": {}
+    },
+    "aero": {
+      "id": "aero",
+      "ownedUpgrades": {
+        "highSpeed": true,
+        "glider": true
+      }
+    },
+    "4thOfJuly": {
+      "id": "4thOfJuly",
+      "ownedUpgrades": {
+        "trail": true,
+        "highSpeed": true
+      }
+    },
+    "dragon": {
+      "id": "dragon",
+      "ownedUpgrades": {}
+    },
+    "nflpaPrescott": {
+      "id": "nflpaPrescott",
+      "ownedUpgrades": {}
+    },
+    "nflpaJackson": {
+      "id": "nflpaJackson",
+      "ownedUpgrades": {}
+    },
+    "nflpaBarkley": {
+      "id": "nflpaBarkley",
+      "ownedUpgrades": {}
+    },
+    "nflpaMahomes": {
+      "id": "nflpaMahomes",
+      "ownedUpgrades": {}
+    },
+    "nflpaBrady": {
+      "id": "nflpaBrady",
+      "ownedUpgrades": {}
+    },
+    "nflpaBeckham": {
+      "id": "nflpaBeckham",
+      "ownedUpgrades": {}
+    },
+    "sakarBlueIce": {
+      "id": "sakarBlueIce",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "sakarCrew": {
+      "id": "sakarCrew",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "sakarCrewCrush": {
+      "id": "sakarCrewCrush",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "sakarSurfSpray": {
+      "id": "sakarSurfSpray",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "sakarWildStyle": {
+      "id": "sakarWildStyle",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "beelzebook": {
+      "id": "beelzebook",
+      "ownedUpgrades": {}
+    },
+    "rollsRabbit": {
+      "id": "rollsRabbit",
+      "ownedUpgrades": {}
+    },
+    "secretSociety": {
+      "id": "secretSociety",
+      "ownedUpgrades": {}
+    },
+    "uprock": {
+      "id": "uprock",
+      "ownedUpgrades": {}
+    },
+    "bunny": {
+      "id": "bunny",
+      "ownedUpgrades": {}
+    },
+    "shuttle": {
+      "id": "shuttle",
+      "ownedUpgrades": {}
+    },
+    "birthday2021": {
+      "id": "birthday2021",
+      "ownedUpgrades": {}
+    },
+    "viking": {
+      "id": "viking",
+      "ownedUpgrades": {}
+    },
+    "dragonBoat": {
+      "id": "dragonBoat",
+      "ownedUpgrades": {}
+    },
+    "bouncer": {
+      "id": "bouncer",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "paintPalette": {
+      "id": "paintPalette",
+      "ownedUpgrades": {}
+    },
+    "sakura": {
+      "id": "sakura",
+      "ownedUpgrades": {}
+    },
+    "birthday2022": {
+      "id": "birthday2022",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "superSurfer": {
+      "id": "superSurfer",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "pixelhoverboard": {
+      "id": "pixelhoverboard",
+      "ownedUpgrades": {
+        "default": true,
+        "lowrider": false
+      }
+    },
+    "streetgrace": {
+      "id": "streetgrace",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": true
+      }
+    },
+    "birthday2024": {
+      "id": "birthday2024",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "magNeatO": {
+      "id": "magNeatO",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "sharpeed": {
+      "id": "sharpeed",
+      "ownedUpgrades": {
+        "default": true,
+        "superJump": true,
+        "highSpeed": true
+      }
+    },
+    "jingledingle": {
+      "id": "jingledingle",
+      "ownedUpgrades": {
+        "default": true,
+        "highSpeed": false,
+        "superJump": false
+      }
+    },
+    "gadgetforce": {
+      "id": "gadgetforce",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": false
+      }
+    },
+    "gingerBoom": {
+      "id": "gingerBoom",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "shinysurprise": {
+      "id": "shinysurprise",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "iscream": {
+      "id": "iscream",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "hohohoverboard": {
+      "id": "hohohoverboard",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "snowdown": {
+      "id": "snowdown",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "lantern": {
+      "id": "lantern",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": false,
+        "glider": false
+      }
+    },
+    "nightlute": {
+      "id": "nightlute",
+      "ownedUpgrades": {
+        "default": true,
+        "highSpeed": false
+      }
+    },
+    "deardart": {
+      "id": "deardart",
+      "ownedUpgrades": {
+        "default": true
+      }
+    },
+    "raveRider": {
+      "id": "raveRider",
+      "ownedUpgrades": {
+        "default": true,
+        "doubleJump": false,
+        "glider": false
+      }
+    },
+    "freshlove": {
+      "id": "freshlove",
+      "ownedUpgrades": {
+        "default": true,
+        "highSpeed": false
+      }
+    },
+    "roaringHeart": {
+      "id": "roaringHeart",
+      "ownedUpgrades": {}
+    },
+    "flashofflavor": {
+      "id": "flashofflavor",
+      "ownedUpgrades": {}
+    },
+    "laserflip": {
+      "id": "laserflip",
+      "ownedUpgrades": {
+        "doubleJump": false
+      }
+    },
+    "rocknriley": {
+      "id": "rocknriley",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "scifly": {
+      "id": "scifly",
+      "ownedUpgrades": {
+        "glider": false,
+        "superJump": false
+      }
+    },
+    "icecool": {
+      "id": "icecool",
+      "ownedUpgrades": {}
+    },
+    "colourshift": {
+      "id": "colourshift",
+      "ownedUpgrades": {
+        "glider": false
+      }
+    },
+    "retroorange": {
+      "id": "retroorange",
+      "ownedUpgrades": {}
+    },
+    "beach": {
+      "id": "beach",
+      "ownedUpgrades": {}
+    },
+    "suitcasesaga": {
+      "id": "suitcasesaga",
+      "ownedUpgrades": {}
+    },
+    "winduprocket": {
+      "id": "winduprocket",
+      "ownedUpgrades": {}
+    },
+    "raggedyrunner": {
+      "id": "raggedyrunner",
+      "ownedUpgrades": {
+        "superJump": false,
+        "glider": false
+      }
+    },
+    "lunarTiger": {
+      "id": "lunarTiger",
+      "ownedUpgrades": {}
+    },
+    "yellowsub": {
+      "id": "yellowsub",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "superJump": false
+      }
+    },
+    "heavymetal": {
+      "id": "heavymetal",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "lowrider": false
+      }
+    },
+    "boombastic": {
+      "id": "boombastic",
+      "ownedUpgrades": {}
+    },
+    "pitchdark": {
+      "id": "pitchdark",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "ssskater": {
+      "id": "ssskater",
+      "ownedUpgrades": {}
+    },
+    "hyperviper": {
+      "id": "hyperviper",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "birthday2023": {
+      "id": "birthday2023",
+      "ownedUpgrades": {}
+    },
+    "astronave": {
+      "id": "astronave",
+      "ownedUpgrades": {}
+    },
+    "mayomania": {
+      "id": "mayomania",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "superJump": false
+      }
+    },
+    "astrotune": {
+      "id": "astrotune",
+      "ownedUpgrades": {
+        "doubleJump": false,
+        "highSpeed": false
+      }
+    },
+    "atomicTile": {
+      "id": "atomicTile",
+      "ownedUpgrades": {}
+    },
+    "pathfinder": {
+      "id": "pathfinder",
+      "ownedUpgrades": {}
+    },
+    "xmas2022": {
+      "id": "xmas2022",
+      "ownedUpgrades": {}
+    },
+    "jellyboard": {
+      "id": "jellyboard",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "mapleLeaf": {
+      "id": "mapleLeaf",
+      "ownedUpgrades": {
+        "glider": false,
+        "superJump": false
+      }
+    },
+    "flashjet": {
+      "id": "flashjet",
+      "ownedUpgrades": {}
+    },
+    "veggievelocity": {
+      "id": "veggievelocity",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "superJump": false
+      }
+    },
+    "couchSurfer": {
+      "id": "couchSurfer",
+      "ownedUpgrades": {
+        "glider": false,
+        "doubleJump": false
+      }
+    },
+    "camel": {
+      "id": "camel",
+      "ownedUpgrades": {}
+    },
+    "sunnysailor": {
+      "id": "sunnysailor",
+      "ownedUpgrades": {
+        "glider": false,
+        "superJump": false
+      }
+    },
+    "sportysummer": {
+      "id": "sportysummer",
+      "ownedUpgrades": {}
+    },
+    "confetticrush": {
+      "id": "confetticrush",
+      "ownedUpgrades": {}
+    },
+    "torito": {
+      "id": "torito",
+      "ownedUpgrades": {}
+    },
+    "cozycruiser": {
+      "id": "cozycruiser",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "lowrider": false
+      }
+    },
+    "bigBoss": {
+      "id": "bigBoss",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "zuperzapper": {
+      "id": "zuperzapper",
+      "ownedUpgrades": {}
+    },
+    "koinobori": {
+      "id": "koinobori",
+      "ownedUpgrades": {}
+    },
+    "standingovation": {
+      "id": "standingovation",
+      "ownedUpgrades": {}
+    },
+    "fanTastic": {
+      "id": "fanTastic",
+      "ownedUpgrades": {}
+    },
+    "snowCloud": {
+      "id": "snowCloud",
+      "ownedUpgrades": {}
+    },
+    "backtothefuture": {
+      "id": "backtothefuture",
+      "ownedUpgrades": {}
+    },
+    "mooncake": {
+      "id": "mooncake",
+      "ownedUpgrades": {}
+    },
+    "ghastlyglider": {
+      "id": "ghastlyglider",
+      "ownedUpgrades": {}
+    },
+    "lunarscroll": {
+      "id": "lunarscroll",
+      "ownedUpgrades": {}
+    },
+    "flamingdoll": {
+      "id": "flamingdoll",
+      "ownedUpgrades": {
+        "lowrider": false,
+        "superJump": false
+      }
+    },
+    "badabomb": {
+      "id": "badabomb",
+      "ownedUpgrades": {}
+    },
+    "viperfish": {
+      "id": "viperfish",
+      "ownedUpgrades": {}
+    },
+    "electroshock": {
+      "id": "electroshock",
+      "ownedUpgrades": {
+        "doubleJump": false,
+        "glider": false
+      }
+    },
+    "energy": {
+      "id": "energy",
+      "ownedUpgrades": {
+        "teleport": false,
+        "superJump": false
+      }
+    },
+    "heartstopper": {
+      "id": "heartstopper",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "glider": false
+      }
+    },
+    "cookexpress": {
+      "id": "cookexpress",
+      "ownedUpgrades": {
+        "glider": false,
+        "doubleJump": false
+      }
+    },
+    "arrow": {
+      "id": "arrow",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "dangerdasher": {
+      "id": "dangerdasher",
+      "ownedUpgrades": {
+        "lowrider": false,
+        "doubleJump": false
+      }
+    },
+    "jak": {
+      "id": "jak",
+      "ownedUpgrades": {
+        "glider": false,
+        "highSpeed": false
+      }
+    },
+    "delivroom": {
+      "id": "delivroom",
+      "ownedUpgrades": {
+        "doubleJump": false
+      }
+    },
+    "turbostump": {
+      "id": "turbostump",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "champ": {
+      "id": "champ",
+      "ownedUpgrades": {
+        "doubleJump": false,
+        "glider": false
+      }
+    },
+    "fastandfestive": {
+      "id": "fastandfestive",
+      "ownedUpgrades": {}
+    },
+    "redvelvet": {
+      "id": "redvelvet",
+      "ownedUpgrades": {}
+    },
+    "teatimer": {
+      "id": "teatimer",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "glider": false
+      }
+    },
+    "feartractor": {
+      "id": "feartractor",
+      "ownedUpgrades": {
+        "glider": false,
+        "doubleJump": false
+      }
+    },
+    "chopchopboard": {
+      "id": "chopchopboard",
+      "ownedUpgrades": {}
+    },
+    "smokingSlime": {
+      "id": "smokingSlime",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "superJump": false
+      }
+    },
+    "neoseoul": {
+      "id": "neoseoul",
+      "ownedUpgrades": {}
+    },
+    "brasswhizz": {
+      "id": "brasswhizz",
+      "ownedUpgrades": {
+        "doubleJump": false,
+        "glider": false
+      }
+    },
+    "aeroFish": {
+      "id": "aeroFish",
+      "ownedUpgrades": {
+        "highSpeed": false
+      }
+    },
+    "fauxpunx": {
+      "id": "fauxpunx",
+      "ownedUpgrades": {}
+    },
+    "carpdiem": {
+      "id": "carpdiem",
+      "ownedUpgrades": {}
+    },
+    "alarmon": {
+      "id": "alarmon",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "glider": false
+      }
+    },
+    "tagger": {
+      "id": "tagger",
+      "ownedUpgrades": {}
+    },
+    "override": {
+      "id": "override",
+      "ownedUpgrades": {}
+    },
+    "interstellar": {
+      "id": "interstellar",
+      "ownedUpgrades": {
+        "lowrider": false,
+        "glider": false
+      }
+    },
+    "beachPop": {
+      "id": "beachPop",
+      "ownedUpgrades": {}
+    },
+    "sweetchili": {
+      "id": "sweetchili",
+      "ownedUpgrades": {}
+    },
+    "moped": {
+      "id": "moped",
+      "ownedUpgrades": {}
+    },
+    "skyrocket": {
+      "id": "skyrocket",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "doubleJump": false
+      }
+    },
+    "fallspeed": {
+      "id": "fallspeed",
+      "ownedUpgrades": {
+        "doubleJump": true
+      }
+    },
+    "spring": {
+      "id": "spring",
+      "ownedUpgrades": {}
+    },
+    "queenofhearts": {
+      "id": "queenofhearts",
+      "ownedUpgrades": {}
+    },
+    "kdillac": {
+      "id": "kdillac",
+      "ownedUpgrades": {}
+    },
+    "jamanta": {
+      "id": "jamanta",
+      "ownedUpgrades": {
+        "glider": false
+      }
+    },
+    "kite": {
+      "id": "kite",
+      "ownedUpgrades": {}
+    },
+    "skeletuna": {
+      "id": "skeletuna",
+      "ownedUpgrades": {}
+    },
+    "riskyride": {
+      "id": "riskyride",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "lowrider": false
+      }
+    },
+    "trickster": {
+      "id": "trickster",
+      "ownedUpgrades": {}
+    },
+    "meggabite": {
+      "id": "meggabite",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "lowrider": false
+      }
+    },
+    "shamrockshebang": {
+      "id": "shamrockshebang",
+      "ownedUpgrades": {
+        "glider": false
+      }
+    },
+    "icicle": {
+      "id": "icicle",
+      "ownedUpgrades": {
+        "glider": false
+      }
+    },
+    "glarx3000": {
+      "id": "glarx3000",
+      "ownedUpgrades": {
+        "glider": false
+      }
+    },
+    "radiantrider": {
+      "id": "radiantrider",
+      "ownedUpgrades": {}
+    },
+    "futureWave": {
+      "id": "futureWave",
+      "ownedUpgrades": {
+        "highSpeed": false,
+        "doubleJump": false
+      }
+    },
+    "catalyst": {
+      "id": "catalyst",
+      "ownedUpgrades": {}
+    },
+    "foxtrail": {
+      "id": "foxtrail",
+      "ownedUpgrades": {
+        "superJump": false,
+        "glider": false
+      }
+    }
+  }
